@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Jack Torrence",
+        "occupation": "writer/marketing",
+        "email": "allwork.noplay@dullboy.com"
+    },
+    {
+        "id": 2,
+        "name": "Tommy Callahan",
+        "occupation": "sales",
+        "email": "fatguy@littlecoat.com"
+    },
+    {
+        "id": 3,
+        "name": "Will Hunting",
+        "occupation": "janitor",
+        "email": "wickedsmart@apples.com"
+    },
+    {
+        "id": 4,
+        "name": "Joe Dirt",
+        "occupation": "janitor",
+        "email": "joe@fireworksfan.com"
+    },
+    {
+        "id": 5,
+        "name": "Ellen Ripley",
+        "occupation": "mechanical",
+        "email": "mechfan@weyland-utani.com"
+      },
+    {
+        "id": 6,
+        "name": "Willy Loman",
+        "occupation": "sales",
+        "email": "tired@fadedflute.com"
+      },
+      {
+        "id": 7,
+        "name": "Ann Perkins",
+        "occupation": "medical",
+        "email": "sweetann@pawnee.gov"
+      },
+      {
+        "id": 8,
+        "name": "Paul Sheldon",
+        "occupation": "writer/marketing",
+        "email": "paul@miserybooks.com"
+      },
+      {
+        "id": 9,
+        "name": "Charlotte Pickles",
+        "occupation": "sales",
+        "email": "angelicasmom@reptarmail.com"
+      },
+      {
+        "id": 10,
+        "name": "Don Draper",
+        "occupation": "sales",
+        "email": "flawedandruined@cocacola.com"
+    }
+]
